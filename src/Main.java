@@ -1,7 +1,9 @@
 import java.util.ArrayList;
 
-public class word_analyzer {
-    ArrayList <String> list = new ArrayList<>();
+public class Main {
+    public static void main(String[] args) {
+
+    }
 }
 public String longestWord(ArrayList<String> list){
     String longestWord=list.get(0);
