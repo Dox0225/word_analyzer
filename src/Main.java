@@ -14,4 +14,12 @@ public class Main {
         }
         return longestWord;
     }
+
+    public String findVowels(ArrayList<String> list) {
+        for (int i = 0; i < list.size(); i++) {
+            if(list.get(i).indexOf(0).equals('a')) {
+                return list.get(i);
+            }
+        }
+    }
 }
