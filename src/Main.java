@@ -1,7 +1,8 @@
 import java.util.ArrayList;
 
-public class Main {
-    public static void main(String[] args) {
-        ArrayList <String> list = new ArrayList();
-    }
+public class word_analyzer {
+    ArrayList <String> list = new ArrayList<>();
+}
+public String Longest(){
+    return;
 }
